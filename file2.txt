@@ -1,1 +1,2 @@
-this is recreated second file
+this is a new line to test diff
+This is a seconddline
